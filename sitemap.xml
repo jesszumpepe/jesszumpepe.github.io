@@ -2,10 +2,10 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>http://jesszumpepe.github.io/</loc><lastmod>2023-02-18T14:19:41&#43;01:00</lastmod></url><url>
-            <loc>http://jesszumpepe.github.io/posts/first_post/</loc><lastmod>2023-02-18T14:19:41&#43;01:00</lastmod></url><url>
-            <loc>http://jesszumpepe.github.io/posts/</loc><lastmod>2023-02-18T14:19:41&#43;01:00</lastmod></url><url>
-            <loc>http://jesszumpepe.github.io/cv/readme/</loc></url><url>
-            <loc>http://jesszumpepe.github.io/categories/</loc></url><url>
-            <loc>http://jesszumpepe.github.io/cv/</loc></url><url>
-            <loc>http://jesszumpepe.github.io/tags/</loc></url></urlset>
+            <loc>http://jesszumpepe.github.io/first_post/</loc><lastmod>2023-02-18T14:19:41&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://jesszumpepe.github.io/</loc><lastmod>2023-02-18T14:19:41&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://jesszumpepe.github.io/posts/</loc><lastmod>2023-02-18T14:19:41&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://jesszumpepe.github.io/about/readme/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://jesszumpepe.github.io/about/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://jesszumpepe.github.io/categories/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://jesszumpepe.github.io/tags/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url></urlset>

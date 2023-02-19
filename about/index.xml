@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Cvs on JesszumPepe</title>
-    <link>http://jesszumpepe.github.io/cv/</link>
-    <description>Recent content in Cvs on JesszumPepe</description>
+    <title>Abouts on JesszumPepe</title>
+    <link>http://jesszumpepe.github.io/about/</link>
+    <description>Recent content in Abouts on JesszumPepe</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="http://jesszumpepe.github.io/cv/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="http://jesszumpepe.github.io/about/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>http://jesszumpepe.github.io/cv/readme/</link>
+      <link>http://jesszumpepe.github.io/about/readme/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://jesszumpepe.github.io/cv/readme/</guid>
+      <guid>http://jesszumpepe.github.io/about/readme/</guid>
       <description>adam2319.github.io Responsive CV with HTML + CSS English and Hungarian version</description>
     </item>
     
